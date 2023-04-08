@@ -6,3 +6,4 @@ The only change is in luaconf.h:
 ```c
 #define LUA_IDSIZE	4096
 ```
+Visual Studio project and precompiled binary are provided.
