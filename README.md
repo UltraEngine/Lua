@@ -9,3 +9,5 @@ The only change is in luaconf.h:
 #define LUA_IDSIZE	4096
 ```
 Visual Studio project and precompiled binary are provided.
+
+Lua modules are ready-to-compile in the Modules folder.
