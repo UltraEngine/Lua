@@ -194,5 +194,8 @@
     <ClCompile Include="src\ldebug.c">
       <Filter>Source Files\Lua</Filter>
     </ClCompile>
+    <ClCompile Include="src\luac.c">
+      <Filter>Source Files\Lua</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
