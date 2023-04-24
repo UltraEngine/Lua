@@ -1,4 +1,4 @@
-# Lua 5.4 for Ultra Engine
+# Lua for Ultra Engine
 
 **Current version: 5.4.4**
 
