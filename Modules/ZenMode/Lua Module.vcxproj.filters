@@ -28,7 +28,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\Source\Libraries\Lua\x64\Release\lua54.lib">
+    <Library Include="..\..\Lua\x64\Release\lua54.lib">
       <Filter>Source Files</Filter>
     </Library>
   </ItemGroup>
