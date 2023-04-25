@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lua", "Lua.vcxproj", "{257C8D31-0C58-46FA-9713-9EE3319CD5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Compiler|x64 = Compiler|x64
+		Compiler|x86 = Compiler|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Compiler|x64.ActiveCfg = Compiler|x64
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Compiler|x64.Build.0 = Compiler|x64
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Compiler|x86.ActiveCfg = Compiler|Win32
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Compiler|x86.Build.0 = Compiler|Win32
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Debug|x64.ActiveCfg = Debug|x64
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Debug|x64.Build.0 = Debug|x64
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Debug|x86.Build.0 = Debug|Win32
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Release|x64.ActiveCfg = Release|x64
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Release|x64.Build.0 = Release|x64
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Release|x86.ActiveCfg = Release|Win32
+		{257C8D31-0C58-46FA-9713-9EE3319CD5D6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED0716E-8132-4A04-9139-D9EF2B6334CC}
+	EndGlobalSection
+EndGlobal
